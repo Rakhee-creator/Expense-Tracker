@@ -1,8 +1,7 @@
 ## 🌟 Expense Tracker in Java 
 Welcome to my little experiment in clarity, chaos, and chai-fueled coding.
 This Java-based Expense Tracker helps you log daily expenses, calculate totals, and reflect on spending decisions. 
-Built with simplicity, precision, and a sprinkle of humor, it’s perfect for developers who want more than just numbers—they want insight.
----
+----
 ### ✨ Features
 
 - 💸 Add, delete, and view expenses  
